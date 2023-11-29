@@ -1,0 +1,15 @@
+.app-card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e4fad9;
+    border-radius: 5px;
+    margin: 25px;
+    width: 125px;
+    height: 125px;
+}
+
+.image-logo{
+    width: 50px;
+    height: 50px;
+}
